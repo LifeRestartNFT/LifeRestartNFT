@@ -1,8 +1,8 @@
 {
   "name": "Loot (for LifeRestart)",
-  "description": "Life Restart NFTs. Play2Earn will come soon...",
+  "description": "Life Restart NFTs. Play2Earn will come soon... #NFT #GameFi",
   "image": "https://raw.githubusercontent.com/LifeRestartNFT/LifeRestartNFT/main/profile.png",
-  "external_link": "https://opensea.io/collection/loot-for-liferestart",
+  "external_link": "https://opensea.io/collection/liferestart",
   "seller_fee_basis_points": 500,
   "fee_recipient": "0xbD4A0A4EF631Dbb4608D32022dF657D70E220462"
 }
